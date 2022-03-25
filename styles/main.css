@@ -20,6 +20,7 @@ body {
 header {
     background-image: url("../images/vhbackground.jpg");
     border-bottom: 3px dashed gold;
+    text-align: center;
 }
 #logoimage {
     float: left;
