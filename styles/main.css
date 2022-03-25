@@ -20,7 +20,7 @@ body {
 }
 header {
     background-image: url("../images/vhbackground.jpg");
-    border-bottom: 3px ridge gold;
+    border-bottom: 3px gold;
 }
 #logoimage {
     float: left;
@@ -64,12 +64,12 @@ header h3 {
   margin-top: 8px;
   vertical-align: middle;
   border-radius: 15px;
-  border: 3px inset gold;
+  border: 3px outset gold;
 }
 
 footer {
   padding: 30px 0;
-  border-top: 3px ridge gold;
+  border-top: 3px gold;
 }
 footer p {
   text-align: center;
