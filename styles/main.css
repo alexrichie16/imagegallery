@@ -19,7 +19,7 @@ body {
 }
 header {
     background-image: url("../images/vhbackground.jpg");
-    border-bottom: 3px ridge silver;
+    border-bottom: 3px ridge gold;
 }
 #logoimage {
     float: left;
@@ -63,13 +63,12 @@ header h3 {
   margin-top: 8px;
   vertical-align: middle;
   border-radius: 15px;
-  border: 3px inset amber;
+  border: 3px inset gold;
 }
 
 footer {
-  background-image: url("../images/vhbackground.jpg");
   padding: 30px 0;
-  border-top: 3px ridge silver;
+  border-top: 3px ridge gold;
 }
 footer p {
   text-align: center;
