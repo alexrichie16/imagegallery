@@ -16,7 +16,7 @@ body {
   margin: 0;
   font-family: Arial;
   background-color: rgba(0, 0, 0, .8); /* rgba property value, where the 4th argument is the opacity */
-  padding: 10px;
+  padding: 5%;
 }
 header {
     background-image: url("../images/vhbackground.jpg");
