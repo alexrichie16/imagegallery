@@ -14,7 +14,7 @@ html {
 }
 body {
   margin: 0;
-  font-family: Sans-Serif;
+  font-family: helvetica;
 }
 header {
     background-image: url("../images/vhbackground.jpg");
@@ -37,7 +37,6 @@ h1 {
   text-align: center;
 }
 header a {
-  font-family: helvetica;
   text-decoration: none;
   color: maroon;
 }
