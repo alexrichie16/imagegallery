@@ -15,7 +15,7 @@ html {
 body {
   margin: 0;
   font-family: Arial;
-  background-color: rgba(0, 100, 100, .8); /* rgba property value, where the 4th argument is the opacity */
+  background-color: rgba(0, 0, 0, .8); /* rgba property value, where the 4th argument is the opacity */
 }
 header {
     background-image: url("../images/vhbackground.jpg");
