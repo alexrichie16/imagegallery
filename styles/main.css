@@ -35,12 +35,10 @@ h1 {
   font-size: 300%;
   color: white;
   text-align: center;
-  text-shadow: 1px 1px 1px #FF0000, -1px -1px 1px #FF0000, -1px 1px 1px #FF0000, 1px -1px 1px #FF0000;
 }
 header a {
   text-decoration: none;
-  color: white;
-  text-shadow: 1px 1px 1px #000000, -1px -1px 1px #000000, -1px 1px 1px #000000, 1px -1px 1px #000000;
+  color: magenta;
 }
 header h3 {
     font-size: 150%;
